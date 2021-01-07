@@ -4,7 +4,7 @@ PyYAML==3.12
 gensim==2.1.0
 html5lib==0.999999999
 httplib2==0.10.3
-lxml==3.8.0
+lxml==4.6.2
 memory_profiler==0.50.0
 networkx==1.11
 nltk==3.2.2
