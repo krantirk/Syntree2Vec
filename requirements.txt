@@ -1,6 +1,6 @@
 cffi==1.9.1
 subprocess32==3.2.7
-PyYAML==3.12
+PyYAML==5.4
 gensim==2.1.0
 html5lib==0.999999999
 httplib2==0.10.3
