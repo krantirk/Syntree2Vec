@@ -18,7 +18,7 @@ google_api_python_client==1.6.4
 blosc==1.5.1
 bottleneck==1.2.1
 beautifulsoup4==4.6.0
-dask==0.16.0
+dask==2021.10.0
 h5py==2.7.1
 numexpr==2.6.4
 openpyxl==2.5.0b1
